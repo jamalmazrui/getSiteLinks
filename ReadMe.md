@@ -113,4 +113,7 @@ Authors
 Jamal Mazrui, Consultant, Access Success LLC
 
 License
-This project is licensed under the MIT License. See LICENSE or LICENSE.html for details.
+This project is licensed under the MIT License. See License.html for details. The whole project may be downloaded in a single zip archive from the following address:
+
+<http://GitHub.com/JamalMazrui/getSiteLinks/archive/main.zip>
+
